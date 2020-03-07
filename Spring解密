@@ -52,7 +52,7 @@ Spring解密 读书笔记
 	第6章 Spring的IoC容器扩展篇
 	
 	第2章 IoC的基本概念
-    IOC全称Inversion of Control，中文名，“控制反转”或“依赖注入”。
+    		IOC全称Inversion of Control，中文名，“控制反转”或“依赖注入”。
 		
 		依赖注入方式：构造方法注入、setter方法注入、接口注入
 		使用IOC后，对象具有更好的可测试性、可重用性、可扩展性。IOC可以帮助我们解耦各个业务对象间的依赖关系的对象绑定方式。	
