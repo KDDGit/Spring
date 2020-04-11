@@ -1,10 +1,10 @@
 # Spring 知识点
 
-## Spring
+## [Spring](https://github.com/KDDGit/Spring/blob/master/Spring/README.md)
 
 Spring是
 
-[more...](https://github.com/KDDGit/Spring/edit/master/README.md)
+[more...](https://github.com/KDDGit/Spring/blob/master/Spring/README.md)
 
 ## SpringMVC
 
