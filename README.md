@@ -1,6 +1,6 @@
 # Spring 知识点
 
-## [Spring Framework](https://github.com/KDDGit/Spring/blob/master/Spring%20Framework/README.md)
+## [Spring Framework](https://github.com/KDDGit/Spring/blob/master/Spring%20Framework)
 
 Spring是
 
